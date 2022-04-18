@@ -1,0 +1,11 @@
+Zycze milego dnia;Fri Dec 10 01:16:27 2021;Zielony;Kursywa;F:/Wyklady/Pk/pamiettnikRefakto/pamietnik-konrbla262/auto.jpg
+Krajobraz;Thu Dec 9 01:16:05 2021;Niebieski;Pogrubiony;F:/Wyklady/Pk/pamiettnikRefakto/pamietnik-konrbla262/krajobraz.jpg
+terefere;Wed Dec 8 13:54:58 2021;Niebieski;Kursywa;F:/Wyklady/Pk/pamiettnikRefakto/pamietnik-konrbla262/Brak.png
+terefere;Wed Dec 8 13:49:59 2021;Niebieski;Pogrubiony;F:/Wyklady/Pk/pamiettnikRefakto/pamietnik-konrbla262/powerx5.jpg
+test;Tue Dec 7 01:17:20 2021;Czerwony;Normalny;F:/Wyklady/Pk/pamiettnikRefakto/pamietnik-konrbla262/Test.png
+test;Sun Dec 5 13:43:19 2021;Czerwony;Normalny;Brak.png
+wspomnienie5;Sat Jan 8 00:00:00 2000;Czerwony;Normalny;:/Test.png
+wspomnienie4;Tue Jan 4 00:02:00 2000;Zielony;Normalny;:/Test.png
+wspomnienie3;Mon Jan 3 00:02:00 2000;Czerwony;Pogrubiony;:/Test.png
+wspomnienie2;Sun Jan 2 00:02:00 2000;Niebieski;Normalny;:/Test.png
+wspomnienie1;Sat Jan 1 00:00:00 2000;Czerwony;Normalny;:/Test.png

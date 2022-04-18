@@ -1,0 +1,5 @@
+wspomnienie5;Sat Jan 8 00:00:00 2000;Czerwony;Normalny;:/Test.png
+wspomnienie4;Tue Jan 4 00:02:00 2000;Zielony;Normalny;:/Test.png
+wspomnienie3;Mon Jan 3 00:02:00 2000;Czerwony;Pogrubiony;:/Test.png
+wspomnienie2;Sun Jan 2 00:02:00 2000;Niebieski;Normalny;:/Test.png
+wspomnienie1;Sat Jan 1 00:00:00 2000;Czerwony;Normalny;:/Test.png
